@@ -27,6 +27,11 @@ If you get any errors not on this list please join the discord: [Novaline's Disc
 4. `Novaline Crashes`. This is a very simple fix, you shouldn't get it if you've installed the required libraries. If not you can download them from [here](https://aka.ms/vs/17/release/vc_redist.x64.exe) and also [this](https://dotnet.microsoft.com/en-us/download/dotnet-framework). Then restart Novaline and your error should be fixed.
 
 
+
+6. `Novaline Is Still Open When Trying To Uninstall`. This means that Novaline is still open. You can fix this in 4 simple steps: Open Taskmanager, Find Novaline.exe, Right-Click the program and press `End Task`, Then delete the files and you shouldn't get the error.
+
+
+
 5. `Could Not Connect To Remote Server`. This is an error which can be fixed easily. If you make a ticket to fix this issue, make sure to always send logs! It helps us fix your errors. To fix this error, you'll need to re-download Novaline, and make sre you have all libraries installed. Then your error should be fixed.
 
 
@@ -47,5 +52,5 @@ Remember To Join The Discord: [Novaline's Discord](https://discord.com/invite/se
 
 ##
 
-Last Updated: 12:43 AM | 22/05/2022 | GMT +1                                                                                                        
+Last Updated: 10:39 AM | 22/05/2022 | GMT +1                                                                                                        
 Document Created By blinx
