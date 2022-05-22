@@ -10,6 +10,8 @@ Do **NOT** download any version of Novaline **not** from [wearedevs.net](https:/
 We really advise you read this *before* making a **ticket**, it saves us and you alot of time.
 You can download Novaline here: [Download](https://wearedevs.net/d/Novaline)
 
+If you find this document difficult to read, please consult to the website for this: [Novaline Support](https://blinx-co.github.io/Novaline-ReadMe-Page/)
+
 If you get any errors not on this list please join the discord: [Novaline's Discord](https://discord.com/invite/semnXTdss2)
 
 ## Common Problems:
