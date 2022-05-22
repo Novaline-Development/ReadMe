@@ -7,6 +7,7 @@ It is really helpful if your navite language isn't English, please use a transla
 ## General Info:
 Do **NOT** download any version of Novaline **not** from [wearedevs.net](https://wearedevs.net). The only and **official** download is on WeAreDevs.net.
 
+We really advise you read this *before* making a **ticket**, it saves us and you alot of time.
 You can download Novaline here: [Download](https://wearedevs.net/d/Novaline)
 
 If you get any errors not on this list please join the discord: [Novaline's Discord](https://discord.com/invite/semnXTdss2)
@@ -52,5 +53,5 @@ Remember To Join The Discord: [Novaline's Discord](https://discord.com/invite/se
 
 ##
 
-Last Updated: 10:52 AM | 22/05/2022 | GMT +1                                                                                                        
-Document Created By blinx with <3
+Last Updated: 10:53 AM | 22/05/2022 | GMT +1                                                                                                        
+Document Created By blinx with 🖤
