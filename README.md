@@ -52,5 +52,5 @@ Remember To Join The Discord: [Novaline's Discord](https://discord.com/invite/se
 
 ##
 
-Last Updated: 10:39 AM | 22/05/2022 | GMT +1                                                                                                        
-Document Created By blinx
+Last Updated: 10:52 AM | 22/05/2022 | GMT +1                                                                                                        
+Document Created By blinx with <3
