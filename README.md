@@ -19,7 +19,8 @@ If you find this document difficult to read, please consult to the website for t
 If you get any errors not on this list please join the discord: [Novaline's Discord](https://discord.com/invite/semnXTdss2)
 
 ## Common Problems:
-1. `Web Client Error`. This error is most common when the user (you) have not taken the correct steps to use Novaline. e.g (Real Time Protection is off, Correct Window libraries are installed). To fix this error, you'll need to restart Novaline or download the required libraries. you can download them [here](https://aka.ms/vs/17/release/vc_redist.x64.exe) and [here](https://dotnet.microsoft.com/en-us/download/dotnet-framework). Or a very simple way to fix it, close roblox then open Novaline.
+1. `Web Client Error`. This error is most common when the user (you) have not taken the correct steps to use Novaline. e.g (Real Time Protection is off, Correct Window libraries are installed). To fix this error, you'll need to restart Novaline or download the required libraries. you can download them [here](https://aka.ms/vs/17/release/vc_redist.x64.exe) and [here](https://dotnet.microsoft.com/en-us/download/dotnet-framework). Or a very simple way to fix it, close roblox then open Novaline. ![image](https://user-images.githubusercontent.com/103583498/170551597-a0db8f17-fd54-4a80-b36a-4d37fd062ec6.png)
+
 
 
 
