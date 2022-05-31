@@ -64,8 +64,12 @@ If you get any errors not on this list please join the discord: [Novaline's Disc
 Remember To Join The Discord: [Novaline's Discord](https://discord.com/invite/semnXTdss2)
 
 
+4. `Novaline encountering an exception`: ![example](https://user-images.githubusercontent.com/103583498/171124913-d8b29763-3d14-46ac-abb2-88be3f7ac0cc.png)
+to fix this you need to install .net libraries.
+
+
 
 ##
 
-Last Updated: 19:28 PM | 26/05/2022 | GMT +1                                                                                                        
+Last Updated: 09:10 PM | 31/05/2022 | GMT +1                                                                                                        
 Document Created By blinx with 🖤😽
